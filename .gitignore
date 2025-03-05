@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+*.egg/
+
+# Pip dependency file
+pip-log.txt
+
+# Distribution / packaging
+dist/
+build/
+*.tar.gz
+*.whl
+
+# Flask-specific files
+config.py
+*.secret
+
+# Environment variables
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
